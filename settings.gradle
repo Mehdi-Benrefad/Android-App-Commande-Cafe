@@ -1,0 +1,2 @@
+rootProject.name='commande de cafe'
+include ':app'
